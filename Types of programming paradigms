@@ -1,0 +1,24 @@
+	FUNCTIONAL  PROGRAMMING
+Functional programming is a programming paradigm in which the primary method of computation is evaluation of functions. In simple terms it’s a way of thinking about construction of software by creating pure functions.one of its disadvantages is, it requires a large memory space as it does not have state, you need to create new objects every time to perform actions.
+
+	PROCEDURAL PROGRAMMING
+Procedural programming is a programming paradigm built around the idea that programs are sequences of instructions to be executed, the focus of procedural programming is to break down a programming task into a collection, in simple terms it tells the computer what to do step by step, it relies on procedures(a.k.a routines or sub-routines) some examples of procedural programming are early programming languages  like FORTRAN, COBOL and C which have been around since the 1960s and `70s.
+
+	STRUCTURED PROGRAMMING
+Structured programming is a programming paradigm that aims at improving the clarity, quality and development time of a computer program, it is a subset of procedural programming  in the sense that it follows a step by step procedure, it is written with only three constructions namely; 
+1. Sequence: Executes a list of statements in order  
+2. Repetition: Repeats a block of statements while a condition is true(note: there is no limit to the number of times  that the block can be executed. 
+3. Selection: Choose at most one action from several alternative conditions
+
+	OBJECT-ORIENTED PROGRAMMING
+Object-oriented programming is a programming paradigm based on the concept of “objects”(object: a group of data attributes with functions or methods combined into a unit) that contain both data and code to modify the data.
+It has four basic concepts, namely;
+•	Encapsulation:
+In OOP we encapsulate(enclose) by binding the data and functions which operate on that data into a single unit, the class. By doing so we can hide private details of a class from the outside world and only exposed functionality that is important for interfacing with it.
+•	Abstraction:
+In abstraction, we abstract or take away the grim implementation details of a class and only present a clean and easy-to-use interface via the class member functions. Carefully used abstraction helps isolate the impact of changes made to the code, so that if an error occurs the change will only affect the implementation details of a class and not the outside code.
+•	Inheritance:
+If a class inherits from another class, it automatically obtains a lot of the same functionality and properties from that class and can be extended to contain separate code and data.
+•	Polymorphism:
+In OOP, polymorphism allows for the uniform treatment of classes in a hierarchy, therefore calling code only needs to be written to handle objects from the root of the hierarchy and any object manifested by any child class in the hierarchy will be treated the same way.
+
